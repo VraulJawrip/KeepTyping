@@ -1,0 +1,5 @@
+## Interface: 120105
+## Title: KeepTyping
+## Notes: Keeps chat focused when you click in the world or turn the camera.
+
+core.lua

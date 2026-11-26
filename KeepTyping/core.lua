@@ -1,0 +1,1 @@
+GameEvent.UnregisterInternalEvent("GLOBAL_MOUSE_DOWN")
